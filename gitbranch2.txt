@@ -1,2 +1,2 @@
 this is a git branch 2 file 
-hi
+hi there, This is salman faris
